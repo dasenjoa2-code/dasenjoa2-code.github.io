@@ -1,20 +1,19 @@
-# Web académica personal — Dennis Asenjo Alarcón
+# Dennis Asenjo Alarcón — web académica tecnológica
 
-Sitio estático preparado para publicar con GitHub Pages.
+## Publicar / actualizar en GitHub Pages
+1. Descomprime el ZIP.
+2. Entra en tu repositorio `dasenjoa2-code.github.io`.
+3. Pulsa **Add file → Upload files**.
+4. Arrastra `index.html` y `styles.css` (y este README si deseas).
+5. Pulsa **Commit changes**. Si GitHub pregunta si quieres reemplazar los archivos, confirma.
+6. Visita https://dasenjoa2-code.github.io/ y, si ves la versión antigua, recarga con Ctrl+F5.
 
-## Publicar con GitHub Pages
-1. Crea o inicia sesión en https://github.com/
-2. Crea un repositorio público llamado `TUUSUARIO.github.io` (reemplaza TUUSUARIO por tu nombre de usuario de GitHub).
-3. Sube `index.html`, `styles.css` y `README.md` a la raíz del repositorio.
-4. En el repositorio, entra en **Settings → Pages**.
-5. En **Build and deployment**, elige **Deploy from a branch**, rama `main` y carpeta `/ (root)`, y guarda.
-6. Espera unos minutos y visita `https://TUUSUARIO.github.io/`.
+## Imágenes
+Las fotografías de fondo se cargan desde URLs de Unsplash, por lo que el navegador necesita conexión a Internet. Puedes sustituir las imágenes editando las URLs `background-image` en `styles.css`.
 
 ## Antes de publicar
-- Revisa la presentación, afiliación y líneas de investigación.
-- Sustituye los enlaces genéricos de Google Scholar y LinkedIn por tus perfiles reales.
-- Añade un correo profesional si deseas mostrarlo públicamente.
-- Añade publicaciones solo cuando estén publicadas y sean verificables.
-- El proyecto doctoral aparece expresamente como “en desarrollo”.
-
-Este paquete contiene el código fuente; no crea por sí mismo una cuenta de GitHub ni publica el sitio.
+- Verifica el texto de perfil y la afiliación.
+- Sustituye enlaces genéricos por tus perfiles académicos reales.
+- Añade publicaciones únicamente cuando sean verificables.
+- El proyecto doctoral se identifica como investigación en desarrollo.
+- El diseño es una plantilla web; no implica que las imágenes sean fotografías personales ni resultados de investigación propios.
